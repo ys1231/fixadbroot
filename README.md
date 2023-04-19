@@ -10,5 +10,6 @@ Shamiko-v0.6-126-debug 对应 magisk v25
 
 Shamiko-v0.7-161-debug 对应 magisk v26
 
+由于Shamiko有文件完整性校验,root隐藏功能受影响,暂时没时间处理.
 [参考链接](https://liwugang.github.io/2021/07/11/magisk_enable_adbr_root.html) 分析的很详细值得学习.
 
