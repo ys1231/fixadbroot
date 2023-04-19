@@ -1,0 +1,6 @@
+id=fixadbroot
+name=fixadbroot
+version=v0.1
+versionCode=1
+author=iyue
+description=fix adb root -> adbd cannot run as root in production builds
