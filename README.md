@@ -10,5 +10,6 @@ Shamiko-v0.6-126-debug 对应 magisk v25
 
 Shamiko-v0.7-161-debug 对应 magisk v26
 
+# 注意 修改Shamiko破坏了完整性so里面应该做了校验,所以需要关闭Shamiko才可以生效.
 [参考链接](https://liwugang.github.io/2021/07/11/magisk_enable_adbr_root.html) 分析的很详细值得学习.
 
