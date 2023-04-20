@@ -1,4 +1,4 @@
 # This file will be read by resetprop
 ro.debuggable=1
 ro.boot.verifiedbootstate=orange
-service.adb.root=1
+#service.adb.root=1
